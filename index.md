@@ -1,5 +1,5 @@
 ﻿# 3-Joint Robotic Arm with Claw
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+My project is a robotic arm that can pivot at three different points, and it has a claw that can grab things. The arm is controlled by two joysticks which are connected to the Arduino in the base of the arm, which then sends information to the servos that cause the arm to move.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
