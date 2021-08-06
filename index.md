@@ -13,7 +13,7 @@ My project is a robotic arm that can pivot at three different points, and it has
 ![Final Milestone](https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/9/2/8/5/235829-6-eng-GB/Feed-Test-SIC-Feed-20142_news_large.jpg)
 
 # Second Milestone
-For my second milestone I built the arm of the robot with the arduinos and the servos installed. I found the instructions for my kit online and then located all the pieces I needed. The build started with creating the base of the arm with the arduino The instructions at times were pretty confusing 
+For my second milestone, I built the arm of the robot with the Arduino and the servos installed. I found the instructions for my kit online and then located all the pieces I needed. The build started with creating the base of the arm with the Arduino inside and the first servo acting as the joint that allows the arm to turn left and right. I then built the main section of the arm and the next two joints; the joints were created using two servos that allow the arm to bend vertically at two different points. The final part of the arm was the claw, and it was a little more complicated as it used gears and a servo so the claw could pinch together, but I eventually got it to work. Creating the arm was actually pretty easy as I just had to follow the schematics. However, it did take me longer than I anticipated because some of the images on the instructions were hard to understand. I also couldn't find a few pieces, so I had to improvise with some parts of the build.
 
 ![Third Milestone](https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/9/2/8/5/235829-6-eng-GB/Feed-Test-SIC-Feed-20142_news_large.jpg)
 # First Milestone
