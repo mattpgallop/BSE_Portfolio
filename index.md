@@ -5,7 +5,7 @@ My project is a robotic arm that can pivot at three different points, and it has
 |:--:|:--:|:--:|:--:|
 | Matthew Gallop | Chatham High School | Applied Physics | Incoming Senior
 
-![Headstone Image](https://github.com/mattpgallop/MatthewGallop_BSE_Portfolio/blob/gh-pages/IMG_9430.png)
+![Headstone Image](https://github.com/mattpgallop/MatthewGallop_BSE_Portfolio/raw/gh-pages/IMG_9430.png)
   
 # Final Milestone
 My third and final milestone was me programming the arduino so I could control the servos on the arm with two joysticks. The kit for the arm came with some code, and althoguh it was good for testing the servos and making sure everything was conncted, it just didn't move how I wanted it to. However, I wrote the code in the first milestone for this very purpose, however, there was one problem, the kit had me connect the arduino to a V5.0 extension board. This means I had figure out how this board works and how it connects to the original arduino. With the help of the internet I was able to do it though, so I rewrote some parts of my code to work with the new board. After this it was a matter of adjusting the small things, whether I thought the arm moved to fast left to right, or I wanted the claw to close faster.
