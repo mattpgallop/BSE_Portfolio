@@ -26,3 +26,5 @@ My first milestone was setting up the servos in my kit to an Arduino and then co
 # Reflection
 
 Looking back on this project I definetely learned a lot of useful skills: figuring out alternative ways to solve a problem, using the internet as a resource, and not taking shorcuts when it comes to building. However, the most valuable thing I learned in my time at bluestamp is how almost everything in the engineering world is connected, and the more you broaden your knowledge the more successful you will be.
+
+[![Demo Night](https://res.cloudinary.com/marcomontalbano/image/upload/v1628865019/video_to_markdown/images/youtube--3pCsiR6xn0o-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/3pCsiR6xn0o "Demo Night"){:target="_blank" rel="noopener"}
