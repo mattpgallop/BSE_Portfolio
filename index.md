@@ -8,7 +8,7 @@ My project is a robotic arm that can pivot at three different points, and it has
 ![Headstone Image](https://github.com/mattpgallop/MatthewGallop_BSE_Portfolio/raw/gh-pages/IMG_9430.png)
   
 # Final Milestone
-My third and final milestone was me programming the arduino so I could control the servos on the arm with two joysticks. The kit for the arm came with some code, and althoguh it was good for testing the servos and making sure everything was conncted, it just didn't move how I wanted it to. However, I wrote the code in the first milestone for this very purpose, however, there was one problem, the kit had me connect the arduino to a V5.0 extension board. This means I had figure out how this board works and how it connects to the original arduino. With the help of the internet I was able to do it though, so I rewrote some parts of my code to work with the new board. After this it was a matter of adjusting the small things, whether I thought the arm moved to fast left to right, or I wanted the claw to close faster.
+My third and final milestone was programming the Arduino so I could control the servos on the arm with two joysticks. The kit for the arm came with some code, and although it was good for testing the servos and making sure everything was connected, it just didn't move how I wanted it to. However, I wrote the code in the first milestone for this very purpose, but there was one problem, the kit had me connect the Arduino to a V5.0 extension board. This means I had to figure out how this board works and how it connects to the original Arduino. With the help of the internet, I was able to do it, though, so I rewrote some parts of my code to work with the new board. After this, it was a matter of adjusting the small things, whether I thought the arm moved too fast left to right, or I wanted the claw to close faster.
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1628863992/video_to_markdown/images/youtube--0H1-vZKlEeI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/0H1-vZKlEeI "Third Milestone"){:target="_blank" rel="noopener"}
 
@@ -25,6 +25,6 @@ My first milestone was setting up the servos in my kit to an Arduino and then co
 
 # Reflection
 
-Looking back on this project I definetely learned a lot of useful skills: figuring out alternative ways to solve a problem, using the internet as a resource, and not taking shorcuts when it comes to building. However, the most valuable thing I learned in my time at bluestamp is how almost everything in the engineering world is connected, and the more you broaden your knowledge the more successful you will be.
+Looking back on this project, I definitely learned a lot of useful skills: figuring out alternative ways to solve a problem, using the internet as a resource, and not taking shortcuts when it comes to building. However, the most valuable thing I learned in my time at Bluestamp is how almost everything in the engineering world is connected, and the more you broaden your knowledge, the more successful you will be.
 
 [![Demo Night](https://res.cloudinary.com/marcomontalbano/image/upload/v1628865019/video_to_markdown/images/youtube--3pCsiR6xn0o-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/3pCsiR6xn0o "Demo Night"){:target="_blank" rel="noopener"}
